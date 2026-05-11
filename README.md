@@ -74,15 +74,17 @@ All examples are synthetic semantic documentation examples only.
 
 # Related Projects
 
-- RSIF specification
-- RSIF vocabulary
-- RSIF public examples
-- semantic imaging documentation
+- rsif-specification
+- rsif-vocabulary
+- rsif-examples
+- rsif-docs
+- dicom-anonymization-notes
+
+This repository is part of the public ResetRay semantic imaging ecosystem.
 
 ---
 
 # Links
 
-RU: https://resetray.ru
-
+RU: https://resetray.ru  
 COM: https://resetray.com
