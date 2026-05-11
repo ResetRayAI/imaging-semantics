@@ -1,0 +1,22 @@
+{
+  "concept": "ct_attenuation",
+  "category": "quantitative_imaging",
+
+  "semantic_relationships": [
+    {
+      "relation": "measured_in",
+      "target": "hounsfield_units"
+    },
+    {
+      "relation": "uses",
+      "target": "roi"
+    }
+  ],
+
+  "scope": "technical_imaging",
+
+  "not_intended_for": [
+    "diagnosis",
+    "clinical_decision_support"
+  ]
+}
