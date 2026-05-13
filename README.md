@@ -86,5 +86,15 @@ This repository is part of the public ResetRay semantic imaging ecosystem.
 
 # Links
 
+Canonical documentation:
+
+https://docs.resetray.ru
+
+Semantic ecosystem:
+
+https://docs.resetray.ru/ecosystem/
+
+
 RU: https://resetray.ru  
+
 COM: https://resetray.com
