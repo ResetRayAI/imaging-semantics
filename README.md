@@ -57,6 +57,8 @@ This repository is intended for:
 - structured technical terminology;
 - quantitative imaging semantics.
 
+quantitative observations ≠ medical conclusions
+
 This repository is NOT intended for:
 
 - diagnosis;
@@ -79,8 +81,19 @@ All examples are synthetic semantic documentation examples only.
 - rsif-examples
 - rsif-docs
 - dicom-anonymization-notes
+- resetray-manifest
 
 This repository is part of the public ResetRay semantic imaging ecosystem.
+
+---
+
+# Canonical Documentation
+
+https://docs.resetray.com/
+
+https://docs.resetray.com/vocabulary/context.jsonld
+
+https://docs.resetray.com/llms.txt
 
 ---
 
@@ -88,13 +101,14 @@ This repository is part of the public ResetRay semantic imaging ecosystem.
 
 Canonical documentation:
 
-https://docs.resetray.ru
+https://docs.resetray.com/
 
 Semantic ecosystem:
 
-https://docs.resetray.ru/ecosystem/
+https://docs.resetray.com/
 
+---
 
-RU: https://resetray.ru  
+# ResetRay
 
-COM: https://resetray.com
+Semantic infrastructure for AI-readable imaging data.
